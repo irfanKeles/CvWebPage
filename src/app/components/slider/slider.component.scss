@@ -1,0 +1,38 @@
+.banner-content span {
+    border-right: 2px solid white;
+    padding-right: 5px;
+    animation: blink-caret 0.75s step-end infinite;
+  }
+  
+  @keyframes blink-caret {
+    50% { border-color: transparent; }
+  }
+  
+  .custom-h2 {
+    display: inline-block; // Kaymaları önlemek için h2'nin boyutunu koruyun
+  }
+  
+  .cursor {
+    display: inline-block;
+    width: 1px;
+    background-color: black;
+    margin-left: 2px;
+    animation: blink 0.7s steps(1) infinite;
+  }
+  
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+  .banner-animation-text{
+    color: var(--red-color);
+    width: 100%;
+    text-align: start;
+  }
+  @media (max-width:768px) {
+    .custom-h2{
+      width: 100%;
+      text-align: center;
+    }
+  }

@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1,
+    "image": "img/portfolio/bimasraf.png",
+    "title": "Bimasraf",
+    "subTitle": "E-Signature / Financial Advisor / Accounting",
+    "url": "https://bimasraf.com/",
+    "description": "<p>Bimasraf is a comprehensive web platform that brings together e-signature, financial advisory, and accounting services essential for modern businesses.</p> <p>With its user-friendly interface, it offers customized solutions for businesses of all sizes, helping you manage your financial processes more efficiently. This platform enables users to securely sign financial documents while providing quick access to financial advisory services. Thanks to the resources available on the platform, our users can easily create and manage their financial reports.</p> <p><strong>Featured Features:</strong></p> <p><strong>E-Signature:</strong> The ability to sign your documents quickly and securely. Financial Advisory Services: You can receive financial consulting by collaborating with our experienced financial experts.</p> <p><strong>Customized Reporting:</strong> The opportunity to create reports tailored to your business needs.</p> <p>Bimasraf offers its users mobile-friendly design for access from anywhere. Additionally, with the enhanced management panel developed for administrators, you can better track and analyze your processes. Supported by developer tools, the platform is continuously updated using JavaScript and TypeScript to meet various user needs.</p>",
+    "detailTitle": "Application Providing E-Signature, Financial Advisory, and Accounting Solutions",
+    "imageList": [
+      {
+        "url": "img/portfolio/bimasraf.png",
+        "title": "Bimasraf Web"
+      },
+      {
+        "url": "img/portfolio/bimasraf2.png",
+        "title": "Bimasraf Web"
+      },
+      {
+        "url": "img/portfolio/bimasraf-mobile.png",
+        "title": "Bimasraf Mobile"
+      },
+      {
+        "url": "img/portfolio/bimasraf-admin.png",
+        "title": "Bimasraf Admin"
+      },
+      {
+        "url": "img/portfolio/bimasraf-admin-mobile.png",
+        "title": "Bimasraf Admin Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Type",
+        "value": "Website"
+      },
+      {
+        "name": "Developer Tool",
+        "value": [
+          "JS",
+          "TS",
+          "Swiper Slider",
+          "Aos Scroll Animation",
+          "Bootstrap 5"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Bimasraf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "img/portfolio/offer.png",
+    "title": "Offer",
+    "subTitle": "Proposal / Logistics",
+    "url": "https://github.com/irfanKeles/Offer-Project-Demo",
+    "description": "<p>Offer is a user-friendly and customizable web platform that combines proposal management and logistics processes. The project has been developed to facilitate proposal processes in the business world and to track shipments that are about to depart or have already departed in detail.</p> <p>Users can create proposals, view, and manage shipping processes by registering on the platform. A modern interface has been provided to follow every step of these processes.</p> <p><strong>Featured Features:</strong></p> <p><strong>Proposal Management:</strong> Proposal creation, tracking, and approval processes are fully integrated.</p> <p><strong>Logistics Tracking:</strong> Easily track and manage shipments marked as departing or already departed.</p> <p><strong>User Registration System:</strong> Users can quickly register in the system to carry out their transactions.</p>",
+    "detailTitle": "A Demo Application Developed for Proposals and Logistics (Case)",
+    "imageList": [
+      {
+        "url": "img/portfolio/offer.png",
+        "title": "Offer Web"
+      },
+      {
+        "url": "img/portfolio/offer2.png",
+        "title": "Offer Web"
+      },
+      {
+        "url": "img/portfolio/offer3.png",
+        "title": "Offer Web"
+      },
+      {
+        "url": "img/portfolio/offer4.png",
+        "title": "Offer Web"
+      },
+      {
+        "url": "img/portfolio/offerLogin.png",
+        "title": "Offer Login"
+      },
+      {
+        "url": "img/portfolio/offer-admin.png",
+        "title": "Offer Admin"
+      },
+      {
+        "url": "img/portfolio/admşn-offer3.png",
+        "title": "Offer Admin"
+      },
+      {
+        "url": "img/portfolio/offer-admin2.png",
+        "title": "Offer Admin"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Type",
+        "value": "Website"
+      },
+      {
+        "name": "Developer Tool",
+        "value": [
+          "C#",
+          "JS",
+          "HTML",
+          "CSS",
+          "Bootstrap 5",
+          "MSSQL",
+          "Asp.NET MVC 5"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "GitHub"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "img/portfolio/forceget.png",
+    "title": "Forceget",
+    "subTitle": "Logistics / Transport / Transfer",
+    "url": "https://forceget.com/",
+    "description": "<p>Forceget is a comprehensive web application that brings together logistics, transport, and transfer services on a single platform. Users can manage logistics processes with land, air, and sea transport options and track their shipments using containers and boxes.</p> <p>The platform aims to make transport processes more efficient by offering a user-friendly interface. Users can request quotes, monitor shipment processes, and customize their transport options. Forceget adds value to the business world with its wide-ranging logistics solutions.</p> <p><strong>Featured Features:</strong></p> <p><strong>Multiple Transport Options:</strong> Shipment management with land, air, and sea transport options.</p> <p><strong>Container and Box Tracking:</strong> Real-time tracking of transport vehicles used during the shipment process.</p> <p><strong>Quote Management:</strong> Customized quote options and tracking capabilities for logistics processes.</p> <p>Forceget's responsive design provides ease of use on both web and mobile devices. The project includes frontend development with updated themes for both the admin and user interfaces.</p>",
+    "detailTitle": "Application Providing Services for Proposals and Logistics",
+    "imageList": [
+      {
+        "url": "img/portfolio/forceget.png",
+        "title": "Forceget Web"
+      },
+      {
+        "url": "img/portfolio/forceget-mobile.png",
+        "title": "Forceget Responsive Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Type",
+        "value": "Website"
+      },
+      {
+        "name": "Developer Tool",
+        "value": [
+          "JS",
+          "HTML",
+          "CSS",
+          "Bootstrap 5",
+          "Asp.NET MVC 5"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Forceget"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "img/portfolio/umuthaber.png",
+    "title": "Umut Haber",
+    "subTitle": "News",
+    "url": "https://umuthaber.net/",
+    "description": "<p>Umut Haber is a modern news platform that combines current news with radio and television content. Users can access the latest news and follow real-time developments through daily and weekly e-bulletins. The platform offers a wide range of news while catering to all audiences with its user-friendly interface.</p> <p>In addition to providing fast and reliable news access, Umut Haber also includes customized news content based on users' interests. Enriched with radio and television broadcasts, this platform offers a comprehensive experience in the world of news.</p> <p><strong>Featured Features:</strong></p> <p><strong>E-Bulletin Support:</strong> Daily and weekly news is delivered to users via email.</p> <p><strong>Multiple Content Types:</strong> News, radio, and television content are all gathered on a single platform.</p> <p><strong>Responsive Design:</strong> A user-friendly interface optimized for both web and mobile devices.</p> <p>Both frontend and backend development have been carried out as part of the project, providing a reliable infrastructure for users to easily access news content.</p>",
+    "detailTitle": "Application Providing Current News and Breaking Content to the Public",
+    "imageList": [
+      {
+        "url": "img/portfolio/umuthaber.png",
+        "title": "Umut Haber Web"
+      },
+      {
+        "url": "img/portfolio/umuthaber-mobile.png",
+        "title": "Umut Haber Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/umuthaber-admin.png",
+        "title": "Umut Haber Admin"
+      },
+      {
+        "url": "img/portfolio/umuthaber-admin-mobile.png",
+        "title": "Umut Haber Admin Responsive Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Type",
+        "value": "Website"
+      },
+      {
+        "name": "Developer Tool",
+        "value": [
+          "JS",
+          "HTML",
+          "CSS",
+          "Bootstrap 5",
+          "Asp.NET Core 6",
+          "C#",
+          "Rest Full Api",
+          "Angular JS",
+          "Mongo DB"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Umut Haber"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "img/portfolio/futty.png",
+    "title": "Futty",
+    "subTitle": "Health / Nutrition Coach",
+    "url": "https://futyy.com/#!/",
+    "description": "<p>Futty is a platform focused on healthy living and nutrition coaching. Users can track their nutrition programs, manage fitness plans, and adopt a healthy lifestyle with support from expert coaches. The platform also offers specialized nutrition tracking and coaching services for clubs.</p> <p>Futty aims to help users achieve their goals by creating personalized programs tailored to individual needs, providing coaching support to ensure success. The platform offers comprehensive solutions for both individual users and sports clubs.</p> <p><strong>Key Features:</strong></p> <p><strong>Nutrition and Fitness Tracking:</strong> Users can organize their nutrition and fitness plans and monitor their progress.</p> <p><strong>Coaching Services:</strong> Provides personalized coaching support for quicker achievement of goals.</p> <p><strong>Club-Specific Solutions:</strong> Offers bulk nutrition and coaching management options for sports clubs.</p> <p><strong>Responsive Design:</strong> Optimized user experience for both web and mobile devices.</p> <p>The project includes both frontend and backend development, creating a platform that offers comprehensive services in the fields of healthy living and nutrition.</p>",
+    "detailTitle": "Application providing Healthy Living, Life Coaching, and Fitness Services",
+    "imageList": [
+      {
+        "url": "img/portfolio/futty.png",
+        "title": "Futty Web"
+      },
+      {
+        "url": "img/portfolio/futty2.png",
+        "title": "Futty Web"
+      },
+      {
+        "url": "img/portfolio/futty3.png",
+        "title": "Futty Web"
+      },
+      {
+        "url": "img/portfolio/futty4.png",
+        "title": "Futty Web"
+      },
+      {
+        "url": "img/portfolio/futty-mobile.png",
+        "title": "Futty Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/futty-mobile2.png",
+        "title": "Futty Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/futty-mobile3.png",
+        "title": "Futty Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/futty-mobile-4.png",
+        "title": "Futty Responsive Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Type",
+        "value": "Website"
+      },
+      {
+        "name": "Developer Tool",
+        "value": [
+          "JS",
+          "HTML",
+          "CSS",
+          "Bootstrap 5",
+          "Asp.NET Core 5",
+          "C#",
+          "Rest Full Api",
+          "Angular JS",
+          "Mongo DB",
+          "Chart Js"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Futty"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "img/portfolio/meetlys.png",
+    "title": "Meetlys",
+    "subTitle": "Meetlys / Meeting / Business Plan",
+    "url": "https://meetlys.com/",
+    "description": "<p>Meetlys is a platform developed to facilitate business planning, meeting management, and employee tracking processes. Users can manage their business processes more efficiently, create plans, schedule meetings, and track employee performance.</p> <p>The application aims to create timely and organized business plans, optimize meeting management processes, and simplify project tracking. It streamlines business processes for both small and large teams.</p> <p><strong>Key Features:</strong></p> <p><strong>Business Planning:</strong> Enables the effective and organized planning of business processes.</p> <p><strong>Meeting Management:</strong> Offers a comprehensive solution for creating and managing meetings.</p> <p><strong>Employee Tracking:</strong> Facilitates team management by monitoring employee tasks and performance.</p> <p><strong>Responsive Design:</strong> Provides a user-friendly interface optimized for both web and mobile devices.</p> <p>The project has been realized as a comprehensive management platform that simplifies task tracking and planning processes with support for both frontend and backend development.</p>",
+    "detailTitle": "An Application Providing Services in Meeting, Task Tracking, and Planning",
+    "imageList": [
+      {
+        "url": "img/portfolio/meetlys.png",
+        "title": "Meetlys Web"
+      },
+      {
+        "url": "img/portfolio/mettlys2.png",
+        "title": "Meetlys Web"
+      },
+      {
+        "url": "img/portfolio/mettlys3.png",
+        "title": "Meetlys Web"
+      },
+      {
+        "url": "img/portfolio/mettlys4.png",
+        "title": "Meetlys Web"
+      },
+      {
+        "url": "img/portfolio/meetlys-mobile.png",
+        "title": "Meetlys Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/mettlys-mobile2.png",
+        "title": "Meetlys Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/meeetlys-mobile3.png",
+        "title": "Meetlys Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/meetlys-mobile4.png",
+        "title": "Meetlys Responsive Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Type",
+        "value": "Website"
+      },
+      {
+        "name": "Developer Tool",
+        "value": [
+          "JS",
+          "HTML",
+          "CSS",
+          "Bootstrap 5",
+          "Asp.NET Core 5",
+          "C#",
+          "Rest Full Api",
+          "Angular JS",
+          "Mongo DB"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Meetlys"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "img/keyfikebap.png",
+    "title": "Keyf-i Kebap",
+    "subTitle": "Restaurant  / Menu",
+    "url": "https://keyfikebaphaspolat.com/",
+    "description": "<p>Keyf-i Kebap is a platform that operates in the restaurant and fast-food category. Users can explore a rich variety of menu options and place orders. The site aims to quickly present restaurant menus with an easily accessible and user-friendly interface.</p> <p><strong>Key Features:</strong></p> <p><strong>Menu Categories:</strong> Categorizes a wide range of dishes, allowing users to quickly find their desired foods.</p> <p><strong>Restaurant Services:</strong> Enables easy and fast ordering of meals.</p> <p><strong>Responsive Design:</strong> Offers a platform that works seamlessly on both web and mobile devices.</p> <p>The project aims to enhance customer satisfaction by bringing restaurant services into the online world.</p>",
+    "detailTitle": "Application Providing Restaurant and Food Services",
+    "imageList": [
+      {
+        "url": "img/keyfikebap.png",
+        "title": "Keyf-i Kebap Web"
+      },
+      {
+        "url": "img/keyfikebap2.png",
+        "title": "Keyf-i Kebap Web"
+      },
+      {
+        "url": "img/keyfikebap-mobile.png",
+        "title": "Keyf-i Kebap Responsive Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Type",
+        "value": "Website"
+      },
+      {
+        "name": "Developer Tool",
+        "value": [
+          "HTML",
+          "CSS",
+          "Bootstrap 5"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Keyfi Kebap"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "fa-object-group",
+    "title": "Web Design",
+    "description": "Provides solutions that highlight the digital identities of brands with user-focused, aesthetic, and functional web designs. Delivers strong visual communication and modern designs to effectively reach the target audience."
+  },
+  {
+    "icon": "fa-code",
+    "title": "Web Development",
+    "description": "Contributes to the digital transformation of businesses with innovative and secure web development solutions. Develops fast, scalable, and high-performance web applications to strengthen business processes."
+  },
+  {
+    "icon": "fa-bug-slash",
+    "title": "Code Optimization",
+    "description": "Optimizes existing code to maximize system performance and enhance software efficiency. Creates cleaner, faster, and more sustainable software infrastructures."
+  },
+  {
+    "icon": "fa-rotate",
+    "title": "Code Review and Refactoring",
+    "description": "Analyzes and restructures existing code to ensure long-term success of the software. Provides improved code structures in terms of performance and sustainability."
+  }
+]

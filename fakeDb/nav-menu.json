@@ -1,0 +1,32 @@
+[
+    {
+      "url": "#hero",
+      "icon": "fa-home",
+      "name": "Home",
+      "visible": true
+    },
+    {
+      "url": "#services",
+      "icon": "fa-list-check",
+      "name": "Services",
+      "visible": true
+    },
+    {
+      "url": "#portfolio",
+      "icon": "fa-briefcase",
+      "name": "Portfolio",
+      "visible": true
+    },
+    {
+      "url": "#about",
+      "icon": "fa-id-card-clip",
+      "name": "About Us",
+      "visible": true
+    },
+    {
+      "url": "#contact",
+      "icon": "fa-phone-volume",
+      "name": "Contact",
+      "visible": true
+    }
+  ]

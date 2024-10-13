@@ -1,0 +1,32 @@
+[
+    {
+      "url": "#hero",
+      "icon": "fa-home",
+      "name": "Anasayfa",
+      "visible": true
+    },
+    {
+      "url": "#services",
+      "icon": "fa-list-check",
+      "name": "Hizmetler",
+      "visible": true
+    },
+    {
+      "url": "#portfolio",
+      "icon": "fa-briefcase",
+      "name": "Pörtföy",
+      "visible": true
+    },
+    {
+      "url": "#about",
+      "icon": "fa-id-card-clip",
+      "name": "Haakımda",
+      "visible": true
+    },
+    {
+      "url": "#contact",
+      "icon": "fa-phone-volume",
+      "name": "İletişim",
+      "visible": true
+    }
+  ]

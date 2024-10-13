@@ -1,0 +1,18 @@
+[
+    {
+      "id":1,
+      "title": "Neden bir web sitesi yaptırmalıyım?",
+      "description": "Günümüzde bir web sitesi, işletmelerin çevrimiçi varlıklarını güçlendirmek için kritik bir öneme sahiptir. Potansiyel müşterilere ulaşmanın en etkili yolu, etkileyici bir web sitesi aracılığıyla bilgi sağlamaktır. Ayrıca, web siteniz, markanızı tanıtmak, ürünlerinizi sergilemek ve müşterilerinizle etkileşimde bulunmak için bir platform sağlar."
+    },
+    {
+      "id":2,
+      "title": "Web sitemin tasarımında nelere dikkat etmeliyim?",
+      "description": "Web sitesi tasarımında, kullanıcı deneyimi (UX) ön planda olmalıdır. Responsive tasarım, mobil cihazlarda iyi görünme ve hızlı yüklenme süreleri gibi unsurlar, kullanıcıların sitede daha uzun süre kalmasını sağlar. Ayrıca, görsel estetik, kullanıcıların dikkatini çekmek ve markanızı temsil etmek için önemlidir."
+    },
+    {
+      "id":3,
+      "title": "Bir web sitesi ne kadar sürede tamamlanır?",
+      "description": "Web sitesi geliştirme süresi, projenin karmaşıklığına bağlıdır. Basit bir web sitesi genellikle birkaç hafta içinde tamamlanabilirken, kapsamlı bir e-ticaret platformu veya özel bir uygulama geliştirme süreci birkaç ay alabilir. Proje sürecini planlarken, ihtiyaçlarınızı ve hedeflerinizi göz önünde bulundurmalısınız."
+    }
+  ]
+  

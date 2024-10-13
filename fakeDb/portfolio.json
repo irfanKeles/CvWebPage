@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1,
+    "image": "img/portfolio/bimasraf.png",
+    "title": "Bimasraf",
+    "subTitle": "E-İmza / Mali Müşavir / Muhasebe",
+    "url": "https://bimasraf.com/",
+    "description": "<p>Bimasraf, modern işletmelerin ihtiyaç duyduğu e-imza, mali müşavirlik ve muhasebe hizmetlerini bir araya getiren kapsamlı bir web platformudur.</p> <p>  Kullanıcı dostu arayüzü ile her ölçekteki işletmeye özelleştirilmiş çözümler sunarak, finansal süreçlerinizi daha verimli bir şekilde yönetmenize yardımcı olur. Bu platform, kullanıcıların mali belgelerini güvenli bir şekilde imzalayabilmesini sağlarken, aynı zamanda mali müşavirlik hizmetlerine hızlı erişim imkanı sunar. Kullanıcılarımız, platform üzerindeki kaynaklar sayesinde, finansal raporlarını kolayca oluşturabilir ve yönetebilir. </p> <p> <strong> Öne Çıkan Özellikler: </strong> </p> <p> <strong> E-İmza: </strong>  Belgelerinizi hızlı ve güvenli bir şekilde imzalama imkanı. Mali Müşavirlik Hizmetleri: Deneyimli mali uzmanlarımızla işbirliği yaparak, finansal danışmanlık alabilirsiniz. </p> <p> <strong>  Özelleştirilmiş Raporlama: </strong> İşletmenizin ihtiyaçlarına özel raporlar oluşturma olanağı. </p> Bimasraf, kullanıcılarına sunduğu mobil uyumlu tasarımı ile her yerden erişim imkanı tanır. Ayrıca, yöneticiler için geliştirilmiş yönetim paneli ile süreçlerinizi daha iyi takip edebilir ve analiz edebilirsiniz. Geliştirici araçları ile desteklenen platform, JavaScript ve TypeScript dillerini kullanarak, kullanıcıların çeşitli ihtiyaçlarını karşılamak için sürekli olarak güncellenmektedir.",
+    "detailTitle": " E-İmza, Mali Müşavirlik ve Muhasebe Çözüm hizmetileri veren uygulama",
+    "imageList": [
+      {
+        "url": "img/portfolio/bimasraf.png",
+        "title": "Bimasraf Web"
+      },
+      {
+        "url": "img/portfolio/bimasraf2.png",
+        "title": "Bimasraf Web"
+      },
+      {
+        "url": "img/portfolio/bimasraf-mobile.png",
+        "title": "Bimasraf Mobile"
+      },
+      {
+        "url": "img/portfolio/bimasraf-admin.png",
+        "title": "Bimasraf Admin"
+      },
+      {
+        "url": "img/portfolio/bimasraf-admin-mobile.png",
+        "title": "Bimasraf Admin Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Tür",
+        "value": "Web Site"
+      },
+      {
+        "name": "Geliştirici Kiti",
+        "value": [
+          "JS",
+          "TS",
+          "Swiper Slider",
+          "Aos Scroll Animation",
+          "Bootstrap 5"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Bimasraf.com"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "img/portfolio/offer.png",
+    "title": "Offer",
+    "subTitle": "Teklif / Lojistik",
+    "url": "https://github.com/irfanKeles/Offer-Project-Demo",
+    "description": "<p>Offer, teklif yönetimi ve lojistik süreçlerini bir araya getiren, kullanıcı dostu ve özelleştirilebilir bir web platformudur. Proje, iş dünyasında teklif süreçlerini kolaylaştırmak ve yola çıkacak ya da çıkmış sevkiyatları detaylı bir şekilde izlemek amacıyla geliştirilmiştir.</p> <p>Kullanıcılar, platform üzerinde kayıt olarak teklif oluşturabilir, sevkiyat süreçlerini görüntüleyebilir ve yönetebilir. Bu süreçlerin her adımını takip edebilmek için modern bir arayüz sunulmuştur.</p> <p><strong>Öne Çıkan Özellikler:</strong></p> <p><strong>Teklif Yönetimi:</strong> Teklif oluşturma, izleme ve onaylama süreçleri tamamen entegre edilmiştir.</p> <p><strong>Lojistik Takibi:</strong> Yola çıkacak ya da çıktı olarak işaretlenen sevkiyatları kolaylıkla izleyebilir ve yönetebilirsiniz.</p> <p><strong>Kullanıcı Kayıt Sistemi:</strong> Kullanıcıların hızlıca sisteme kayıt olarak işlemlerini gerçekleştirebilmesi sağlanmıştır.</p> <p>",
+    "detailTitle": "Teklif ve lojistik için geliştirilmiş bir demo uygulama.(Case)",
+    "imageList": [
+      {
+        "url": "img/portfolio/offer.png",
+        "title": "Offer Web"
+      },
+      {
+        "url": "img/portfolio/offer2.png",
+        "title": "Offer Web"
+      },
+      {
+        "url": "img/portfolio/offer3.png",
+        "title": "Offer Web"
+      },
+      {
+        "url": "img/portfolio/offer4.png",
+        "title": "Offer Web"
+      },
+      {
+        "url": "img/portfolio/offerLogin.png",
+        "title": "Offer Login"
+      },
+      {
+        "url": "img/portfolio/offer-admin.png",
+        "title": "Offer Admin"
+      },
+      {
+        "url": "img/portfolio/admşn-offer3.png",
+        "title": "Offer Admin"
+      },
+      {
+        "url": "img/portfolio/offer-admin2.png",
+        "title": "Offer Admin"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Tür",
+        "value": "Web Site"
+      },
+      {
+        "name": "Geliştirici Kiti",
+        "value": [
+          "C#",
+          "JS",
+          "HTML",
+          "CSS",
+          "Bootstrap 5",
+          "MSSQL",
+          "Asp.NET MVC 5"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "GitHub.com"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "img/portfolio/forceget.png",
+    "title": "Forceget",
+    "subTitle": "Lojistik / Taşıma / Transfer",
+    "url": "https://forceget.com/",
+    "description": "<p>Forceget, lojistik, taşıma ve transfer hizmetlerini tek bir platformda buluşturan kapsamlı bir web uygulamasıdır. Kullanıcılar, kara, hava ve deniz taşımacılığı seçenekleriyle lojistik süreçlerini yönetebilir, kutu ve konteyner gibi taşıma araçlarıyla sevkiyatlarını takip edebilirler.</p> <p>Platform, kullanıcı dostu bir arayüz sunarak taşımacılık süreçlerini daha verimli hale getirmeyi amaçlamaktadır. Kullanıcılar, teklif alabilir, sevkiyat süreçlerini izleyebilir ve taşıma seçeneklerini özelleştirebilirler. Forceget, geniş kapsamlı lojistik çözümleri ile iş dünyasına değer katar.</p> <p><strong>Öne Çıkan Özellikler:</strong></p> <p><strong>Çoklu Taşıma Seçenekleri:</strong> Kara, hava ve deniz taşımacılığı seçenekleri ile sevkiyat yönetimi.</p> <p><strong>Konteyner ve Kutu Takibi:</strong> Sevkiyat sürecinde kullanılan taşıma araçlarını anlık olarak izleyebilme.</p> <p><strong>Teklif Yönetimi:</strong> Lojistik süreçleri için özelleştirilmiş teklif seçenekleri ve izleme imkanları.</p> <p>Forceget'in responsive tasarımı, hem web hem de mobil cihazlarda kolay kullanım imkanı sunar. Proje kapsamında, frontend geliştirmesi ile admin ve kullanıcı arayüz teması değiştirilmiş ve güncellenmiştir.</p>",
+    "detailTitle": "Teklif ve lojistik için hizmet veren uygulama",
+    "imageList": [
+      {
+        "url": "img/portfolio/forceget.png",
+        "title": "Forceget Web"
+      },
+      {
+        "url": "img/portfolio/forceget-mobile.png",
+        "title": "Forceget Responsive Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Tür",
+        "value": "Web Site"
+      },
+      {
+        "name": "Geliştirici Kiti",
+        "value": [
+          "JS",
+          "HTML",
+          "CSS",
+          "Bootstrap 5",
+          "Asp.NET MVC 5"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Forceget.com"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "img/portfolio/umuthaber.png",
+    "title": "Umut Haber",
+    "subTitle": "Haber / Radyo Televizyon",
+    "url": "https://umuthaber.net/",
+    "description": "<p>Umut Haber, güncel haberlerin yanı sıra radyo ve televizyon içeriklerini bir araya getiren modern bir haber platformudur. Kullanıcılar, günlük ve haftalık e-bültenler aracılığıyla en son haberlere ulaşabilir ve anlık gelişmeleri takip edebilirler. Platform, geniş bir haber yelpazesi sunarken, kullanıcı dostu arayüzü ile her kesime hitap etmektedir.</p> <p>Umut Haber, hızlı ve güvenilir haber erişimi sunmanın yanı sıra, kullanıcıların ilgi alanlarına göre özelleştirilmiş haber içeriklerine de yer verir. Aynı zamanda radyo ve televizyon yayınlarıyla zenginleştirilmiş bu platform, haber dünyasında kapsamlı bir deneyim sağlar.</p> <p><strong>Öne Çıkan Özellikler:</strong></p> <p><strong>E-Bülten Desteği:</strong> Günlük ve haftalık haberler e-posta ile kullanıcılara aktarılır.</p> <p><strong>Çoklu İçerik Tipleri:</strong> Haber, radyo ve televizyon içeriklerinin hepsi tek bir platformda toplanmıştır.</p> <p><strong>Responsive Tasarım:</strong> Hem web hem de mobil cihazlar için optimize edilmiş, kullanıcı dostu arayüz.</p> <p>Proje kapsamında, hem frontend hem de backend geliştirme yapılmış olup, kullanıcıların haber içeriklerine kolayca erişebilmesi için güvenilir bir altyapı sağlanmıştır.</p>",
+    "detailTitle": "Haber, Radyo Televizyon için hizmet veren uygulama",
+    "imageList": [
+      {
+        "url": "img/portfolio/umuthaber.png",
+        "title": "Umut Haber Web"
+      },
+      {
+        "url": "img/portfolio/umuthaber-mobile.png",
+        "title": "Umut Haber Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/umuthaber-admin.png",
+        "title": "Umut Haber Admin"
+      },
+      {
+        "url": "img/portfolio/umuthaber-admin-mobile.png",
+        "title": "Umut Haber Admin Responsive Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Tür",
+        "value": "Web Site"
+      },
+      {
+        "name": "Geliştirici Kiti",
+        "value": [
+          "JS",
+          "HTML",
+          "CSS",
+          "Bootstrap 5",
+          "Asp.NET Core 6",
+          "C#",
+          "Rest Full Api",
+          "Angular JS",
+          "Mongo DB"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "UmutHaber.net"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "img/portfolio/futty.png",
+    "title": "Futty",
+    "subTitle": "Sağlık / Beslenme Koçu",
+    "url": "https://futyy.com/#!/",
+    "description": "<p>Futty, sağlıklı yaşam ve beslenme koçluğu üzerine odaklanmış bir platformdur. Kullanıcılar, beslenme programlarını takip edebilir, fitness planlarını yönetebilir ve uzman koçlardan destek alarak sağlıklı bir yaşam tarzı benimseyebilir. Aynı zamanda, platform kulüplere özel beslenme takip ve koçluk hizmetleri sunmaktadır.</p> <p>Futty, kullanıcıların bireysel hedeflerine göre kişiselleştirilmiş programlar oluştururken, koçluk desteği ile başarıya ulaşmalarını sağlamayı amaçlamaktadır. Platform, hem bireysel kullanıcılar hem de spor kulüpleri için kapsamlı çözümler sunmaktadır.</p> <p><strong>Öne Çıkan Özellikler:</strong></p> <p><strong>Beslenme ve Fitness Takibi:</strong> Kullanıcılar, beslenme ve fitness planlarını düzenleyebilir ve ilerlemelerini takip edebilirler.</p> <p><strong>Koçluk Hizmetleri:</strong> Kişiye özel koçluk desteği ile hedeflerine daha hızlı ulaşılmasını sağlar.</p> <p><strong>Kulüplere Özel Çözümler:</strong> Spor kulüpleri için toplu beslenme ve koçluk yönetimi imkanı sunar.</p> <p><strong>Responsive Tasarım:</strong> Hem web hem de mobil cihazlar için optimize edilmiş kullanıcı deneyimi.</p> <p>Proje kapsamında frontend ve backend geliştirme yapılmış olup, sağlıklı yaşam ve beslenme alanında kullanıcılara kapsamlı hizmetler sunan bir platform oluşturulmuştur.</p>",
+    "detailTitle": "Sağlıklı Yaşam , Yaşam koçluğu ve Fit form'a hizmet veren uygulama",
+    "imageList": [
+      {
+        "url": "img/portfolio/futty.png",
+        "title": "Futty Web"
+      },
+      {
+        "url": "img/portfolio/futty2.png",
+        "title": "Futty Web"
+      },
+      {
+        "url": "img/portfolio/futty3.png",
+        "title": "Futty Web"
+      },
+      {
+        "url": "img/portfolio/futty4.png",
+        "title": "Futty Web"
+      },
+      {
+        "url": "img/portfolio/futty-mobile.png",
+        "title": "Futty Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/futty-mobile2.png",
+        "title": "Futty Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/futty-mobile3.png",
+        "title": "Futty Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/futty-mobile-4.png",
+        "title": "Futty Responsive Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Tür",
+        "value": "Web Site"
+      },
+      {
+        "name": "Geliştirici Kiti",
+        "value": [
+          "JS",
+          "HTML",
+          "CSS",
+          "Bootstrap 5",
+          "Asp.NET Core 5",
+          "C#",
+          "Rest Full Api",
+          "Angular JS",
+          "Mongo DB",
+          "Chart Js"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Futty.com"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "img/portfolio/meetlys.png",
+    "title": "Meetlys",
+    "subTitle": "Meetlys / Toplantı / İş Planı",
+    "url": "https://meetlys.com/",
+    "description": "<p>Meetlys, iş planlama, toplantı yönetimi ve çalışan takibi süreçlerini kolaylaştırmak amacıyla geliştirilmiş bir platformdur. Kullanıcılar, iş süreçlerini daha verimli yönetebilir, planlama yapabilir, toplantılar oluşturabilir ve çalışan performanslarını takip edebilirler.</p> <p>Uygulama, zamanında ve düzenli iş planı oluşturmayı, toplantı yönetimi süreçlerini optimize etmeyi ve proje takibini basitleştirmeyi hedeflemektedir. Hem küçük hem de büyük ölçekli ekipler için iş süreçlerini sorunsuz hale getirir.</p> <p><strong>Öne Çıkan Özellikler:</strong></p> <p><strong>İş Planlama:</strong> İş süreçlerini düzenli ve etkili bir şekilde planlamayı sağlar.</p> <p><strong>Toplantı Yönetimi:</strong> Toplantı oluşturma ve yönetim süreçleri için kapsamlı bir çözüm sunar.</p> <p><strong>Çalışan Takibi:</strong> Çalışanların görevlerini ve performanslarını izleyerek, ekip yönetimini kolaylaştırır.</p> <p><strong>Responsive Tasarım:</strong> Hem web hem de mobil cihazlar için optimize edilmiş, kullanıcı dostu bir arayüz sağlar.</p> <p>Proje, iş takibi ve planlama süreçlerini kolaylaştıran kapsamlı bir yönetim platformu olarak frontend ve backend geliştirme desteği ile hayata geçirilmiştir.</p>",
+    "detailTitle": "Toplamtı, İş takibi ve Planma alanında hizmet veren uygulama",
+    "imageList": [
+      {
+        "url": "img/portfolio/meetlys.png",
+        "title": "Meetlys Web"
+      },
+      {
+        "url": "img/portfolio/mettlys2.png",
+        "title": "Meetlys Web"
+      },
+      {
+        "url": "img/portfolio/mettlys3.png",
+        "title": "Meetlys Web"
+      },
+      {
+        "url": "img/portfolio/mettlys4.png",
+        "title": "Meetlys Web"
+      },
+      {
+        "url": "img/portfolio/meetlys-mobile.png",
+        "title": "Meetlys Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/mettlys-mobile2.png",
+        "title": "Meetlys Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/meeetlys-mobile3.png",
+        "title": "Meetlys Responsive Mobile"
+      },
+      {
+        "url": "img/portfolio/meetlys-mobile4.png",
+        "title": "Meetlys Responsive Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Tür",
+        "value": "Web Site"
+      },
+      {
+        "name": "Geliştirici Kiti",
+        "value": [
+          "JS",
+          "HTML",
+          "CSS",
+          "Bootstrap 5",
+          "Asp.NET Core 5",
+          "C#",
+          "Rest Full Api",
+          "Angular JS",
+          "Mongo DB"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Meetlys.com"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "img/keyfikebap.png",
+    "title": "Keyf-i Kebap",
+    "subTitle": "Restorant / Menu",
+    "url": "https://keyfikebaphaspolat.com/",
+    "description": "<p>Keyf-i Kebap, restoran ve fast-food kategorisinde hizmet veren bir platformdur. Kullanıcılar, zengin menü seçeneklerini inceleyebilir ve sipariş verebilirler. Site, kolayca erişilebilir ve kullanıcı dostu bir arayüz ile restoran menülerini hızlı bir şekilde sunmayı amaçlar.</p> <p><strong>Öne Çıkan Özellikler:</strong></p> <p><strong>Menü Kategorileri:</strong> Geniş yemek yelpazesini kategorize ederek kullanıcıların istedikleri yiyecekleri hızlıca bulmalarını sağlar.</p> <p><strong>Restoran Hizmetleri:</strong> Yemek siparişlerinin kolay ve hızlı bir şekilde verilmesine olanak tanır.</p> <p><strong>Responsive Tasarım:</strong> Web ve mobil cihazlarda uyumlu çalışan bir platform sunar.</p> <p>Proje, restoran hizmetlerini online dünyaya taşıyarak, müşteri memnuniyetini artırmayı hedeflemektedir.</p>",
+    "detailTitle": "Restorant ve yiyecek hizmetleri veren uygulama",
+    "imageList": [
+      {
+        "url": "img/keyfikebap.png",
+        "title": "Keyf-i Kebap Web"
+      },
+      {
+        "url": "img/keyfikebap2.png",
+        "title": "Keyf-i Kebap Web"
+      },
+      {
+        "url": "img/keyfikebap-mobile.png",
+        "title": "Keyf-i Kebap Responsive Mobile"
+      }
+    ],
+    "subTypeList": [
+      {
+        "name": "Tür",
+        "value": "Web Site"
+      },
+      {
+        "name": "Geliştirici Kiti",
+        "value": [
+          "HTML",
+          "CSS",
+          "Bootstrap 5"
+        ]
+      },
+      {
+        "name": "Url",
+        "value": "Keyfikebaphasbolat.com"
+      }
+    ]
+  }
+]

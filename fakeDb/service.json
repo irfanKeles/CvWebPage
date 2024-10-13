@@ -1,22 +1,22 @@
 [
-    {
-      "icon": "fa-object-group",
-      "title": "Web Tasarım",
-      "description": "Kullanıcı odaklı, estetik ve işlevsel web tasarımları ile markaların dijital kimliklerini öne çıkaran çözümler sunar. Görsel iletişimi güçlü ve modern tasarımlar ile hedef kitleye etkili bir şekilde ulaşmayı sağlar."
-    },
-    {
-      "icon": "fa-code",
-      "title": "Web Yazılım",
-      "description": "Yenilikçi ve güvenli web yazılım çözümleri ile işletmelerin dijital dönüşümüne katkı sağlar. Hızlı, ölçeklenebilir ve yüksek performanslı web uygulamaları geliştirerek iş süreçlerini güçlendirir."
-    },
-    {
-      "icon": "fa-bug-slash",
-      "title": "Kod Optimizasyonu",
-      "description": "Yazılım verimliliğini artırmak için mevcut kodları optimize ederek sistem performansını en üst düzeye çıkarır. Daha temiz, hızlı ve sürdürülebilir yazılım altyapıları oluşturur."
-    },
-    {
-      "icon": "fa-rotate",
-      "title": "Kod İnceleme ve Yeniden Düzenleme",
-      "description": "Yazılımın uzun vadeli başarısını güvence altına almak amacıyla mevcut kodları analiz edip, yeniden yapılandırır. Performans ve sürdürülebilirlik açısından iyileştirilmiş kod yapıları sağlar."
-    }
-  ]
+  {
+    "icon": "fa-object-group",
+    "title": "Web Design",
+    "description": "Provides solutions that highlight the digital identities of brands with user-focused, aesthetic, and functional web designs. Delivers strong visual communication and modern designs to effectively reach the target audience."
+  },
+  {
+    "icon": "fa-code",
+    "title": "Web Development",
+    "description": "Contributes to the digital transformation of businesses with innovative and secure web development solutions. Develops fast, scalable, and high-performance web applications to strengthen business processes."
+  },
+  {
+    "icon": "fa-bug-slash",
+    "title": "Code Optimization",
+    "description": "Optimizes existing code to maximize system performance and enhance software efficiency. Creates cleaner, faster, and more sustainable software infrastructures."
+  },
+  {
+    "icon": "fa-rotate",
+    "title": "Code Review and Refactoring",
+    "description": "Analyzes and restructures existing code to ensure long-term success of the software. Provides improved code structures in terms of performance and sustainability."
+  }
+]

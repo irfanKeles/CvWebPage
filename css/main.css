@@ -12,9 +12,9 @@
 --------------------------------------------------------------*/
 /* Fonts */
 :root {
-  --default-font: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --heading-font: "Jost", sans-serif;
-  --nav-font: "Poppins", sans-serif;
+  --default-font: "Montserrat", sans-serif;
+  --heading-font: "Montserrat", sans-serif;
+  --nav-font: "Montserrat", sans-serif;
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
@@ -84,6 +84,9 @@ body {
   color: var(--default-color);
   background-color: var(--background-color);
   font-family: var(--default-font);
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: normal;
 }
 
 a {
@@ -2838,7 +2841,7 @@ section,
   display: flex;
   position: absolute;
   background-color: var(--red-color);
-  right: 53px;
+  right: 12px;
   bottom: 76px;
 }
 

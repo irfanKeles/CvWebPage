@@ -2,31 +2,31 @@
     {
       "url": "#hero",
       "icon": "fa-home",
-      "name": "Anasayfa",
+      "name": "Home",
       "visible": true
     },
     {
       "url": "#services",
       "icon": "fa-list-check",
-      "name": "Hizmetler",
+      "name": "Services",
       "visible": true
     },
     {
       "url": "#portfolio",
       "icon": "fa-briefcase",
-      "name": "Pörtföy",
+      "name": "Portfolio",
       "visible": true
     },
     {
       "url": "#about",
       "icon": "fa-id-card-clip",
-      "name": "Haakımda",
+      "name": "About Us",
       "visible": true
     },
     {
       "url": "#contact",
       "icon": "fa-phone-volume",
-      "name": "İletişim",
+      "name": "Contact",
       "visible": true
     }
   ]
